@@ -8,4 +8,9 @@ This script follows the flow below, which I will modify later on when the code h
 
 This script has around 100 lines at the start where you will need to choose your variables and enter filenames. The only file inputs which are needed is the actual SAR images, with a speckle filter already applied, the baseline backscatter values and the DEM feature which you want to give to the clustering algorithm in order to achieve better results. 
 
-After you have moved all of these files into a folder, and named that folder in the script where it is required along with the paths to this file, you can run the code (I have just used terminal but equally VSCode or spyder command lines will work) and you will have a new folder downloaded, which is shown in the plot: 
+After you have moved all of these files into a folder, and named that folder in the script where it is required along with the paths to this file, you can run the code (I have just used terminal but equally VSCode or spyder command lines will work) and you will have a new folder downloaded, which has the below attributes. 
+<img width="1174" alt="Screenshot 2024-08-22 at 16 50 35" src="https://github.com/user-attachments/assets/2adc6dbb-7fa4-4046-b87c-ad0b682035c0">
+
+The flow of the code is as below, it is not fully up to date but it will be when the code is completely finished.
+
+<img width="843" alt="image" src="https://github.com/user-attachments/assets/05606fc0-bdd1-4485-a2ac-9da96e1944eb">
