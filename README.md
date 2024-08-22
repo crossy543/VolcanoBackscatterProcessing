@@ -1,6 +1,7 @@
 # VolcanoBackscatterProcessing
 Some code I have written for a research project to automate some of the useful image processing techniques when analysing SAR backscatter changes
 
+The methods are described in detail in the unfinished report which is in the repository.
 
 The main script here is BackscatterAnalysis.py. The other two scripts are useful for exploring the SAR imagery but are not a part of the main pipeline in backscatter analysis. 
 
